@@ -15,7 +15,7 @@ I learned the importance of dry coding. Repeating the same code is time consumin
 
 Create a Develop folder seperate from the activity folder.
 Create a repo.
-Edit file, git add, commit "", push to repo. 
+Edit file, git add -A, git commit -m " ", git push to repo. 
 
 ## Usage
 
